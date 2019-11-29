@@ -531,7 +531,8 @@ hr{
 
 @media all and (max-width: 993px){
 .container{
-	display:none !important;
+	width:1500px !important;
+	margin:auto;
 }
 .actual_area .actual .content_area p{
 	margin-left:100px;
